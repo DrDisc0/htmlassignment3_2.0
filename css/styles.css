@@ -38,7 +38,7 @@ body {
 
 /* Intro Section */
 .intro {
-    background: url(/assets/img/MS2.jpg) no-repeat center center/cover;
+    background: url(./assets/img/MS2.jpg) no-repeat center center/cover;
     padding: 50px;
     color: white;
 }
